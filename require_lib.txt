@@ -36,7 +36,7 @@ pymongo==2.8
 pyOpenSSL==17.2.0
 queuelib==1.4.2
 redis==2.10.5
-requests==2.18.4
+requests==2.20.0
 scandir==1.5
 Scrapy==1.4.0
 scrapy-redis==0.6.8
